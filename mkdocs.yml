@@ -1,9 +1,9 @@
-site_name: Platform Specifications
+site_name: Farming Literature
 use_directory_urls: false     # xref_links works only when this is false
 site_url: https://squidfunk.github.io/mkdocs-material/
 site_author: Shashidhar
 site_description: >-
-  Describes platform specifications.
+  Collection of Farming and Agriculture related literature
 # Repository
 repo_name: shashi-banger/farm-docs
 repo_url: https://github.com/shashi-banger/farm-docs
