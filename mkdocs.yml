@@ -1,16 +1,16 @@
 site_name: Platform Specifications
 use_directory_urls: false     # xref_links works only when this is false
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Arpit
+site_author: Shashidhar
 site_description: >-
   Describes platform specifications.
 # Repository
-repo_name: amagimedia/compass-docs
-repo_url: https://github.com/amagimedia/platform-docs
+repo_name: shashi-banger/farm-docs
+repo_url: https://github.com/shashi-banger/farm-docs
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2021 Amagi Media Labs
+copyright: 
 
 # Configuration
 theme:
