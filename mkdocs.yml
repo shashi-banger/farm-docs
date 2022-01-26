@@ -104,6 +104,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Overview: index.md
+  - Videos: videos.md
+  - References: references.md
   
 
 
