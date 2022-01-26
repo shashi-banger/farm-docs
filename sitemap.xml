@@ -5,4 +5,14 @@
          <lastmod>2022-01-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/references.html</loc>
+         <lastmod>2022-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://squidfunk.github.io/mkdocs-material/videos.html</loc>
+         <lastmod>2022-01-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
