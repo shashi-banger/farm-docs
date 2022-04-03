@@ -4,3 +4,4 @@
 2. [Farm Ponds Tech Bulletin](http://www.nicra-icar.in/nicrarevised/images/Books/Farm%20ponds%20technical%20bulletin%202012.pdf)
 3. [Farm Pond design cost estimation](https://www.slideshare.net/AshishKoradia1/farm-pond-design-and-its-cost-estimation)
 4. [Reservoir and Farm pond design course](http://ecoursesonline.iasri.res.in/course/view.php?id=7)
+5. [AgriVoltaic Projects](https://www.pv-magazine.com/2022/03/11/italian-solar-sector-defines-standards-for-agrivoltaics/)
